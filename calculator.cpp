@@ -5,7 +5,7 @@ int main() {
 string operation;
 int a =0;
 int b =0;
-cout<< "enter the op  you want to perform"<<endl;
+cout<< "enter the oper  you want to perform"<<endl;
 cin>>operation;
 cout<< "enter the two numbers" <<endl;
 cin>> a >> b ;
